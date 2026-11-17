@@ -1,5 +1,11 @@
 # GTA VI launch-day Twitch viewers — forecaster
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/jeffchen-lang/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/jeffchen-lang/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Built for the [make.fun bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01): forecast GTA VI's launch-day Twitch viewers hour by hour.
+
 `main.py` (Python 3.13, stdlib only, no network) forecasts hours 2–24 of
 GTA VI's release day on Twitch, five quantiles per hour, from the case's
 comparables (past big launches' hourly counts).
